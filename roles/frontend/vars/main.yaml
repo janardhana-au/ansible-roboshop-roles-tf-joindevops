@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.techcrafters.online
-USER_HOST: user.techcrafters.online
-CART_HOST: cart.techcrafters.online
-SHIPPING_HOST: shipping.techcrafters.online
-PAYMENT_HOST: payment.techcrafters.online
+CATALOGUE_HOST: catalogue.backend-dev.techcrafters.online
+USER_HOST: user.backend-dev.techcrafters.online
+CART_HOST: cart.backend-dev.techcrafters.online
+SHIPPING_HOST: shipping.backend-dev.techcrafters.online
+PAYMENT_HOST: payment.backend-dev.techcrafters.online
